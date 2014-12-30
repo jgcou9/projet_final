@@ -1,0 +1,5 @@
+name: Stacker
+description: Dart game
+dependencies:
+  browser: any
+  game_loop: '>=0.9.4 <0.10.0'
